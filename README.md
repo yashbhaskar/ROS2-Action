@@ -74,7 +74,7 @@ bool success
 ---
 # Feedback
 float32 progress
-
+```
 ---
 
 ## ✨ Features of ROS 2 Actions
